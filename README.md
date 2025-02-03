@@ -1,11 +1,9 @@
-# Hi, I'm Gaurav Bharatavalli Rangaswamy! 👋  
-🚀 **AI/ML Engineer | Data Scientist**
+Manjunath Mahantappa Mahalingapur
+🚀 Data Engineer | Azure Data Specialist | AI & Deep Learning Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate AI/ML Engineer with 2+ years of experience building innovative solutions in NLP, computer vision, and generative AI. I specialize in deploying scalable AI applications, predictive modeling, and data engineering, with a proven ability to optimize pipelines for datasets exceeding 1TB.
+Welcome to my GitHub profile! I'm a Data Engineer with over 5 years of experience in building scalable data solutions using Azure, SQL, Databricks, and Power BI. With a deep passion for AI, Deep Learning, and Cloud Technologies, I specialize in orchestrating end-to-end data pipelines, optimizing performance, and deploying AI-driven analytics solutions.
 
-🌟 **Portfolio**: [gaurav-b-r.github.io/portfolio/](https://gaurav-b-r.github.io/portfolio/)  
-💼 **LinkedIn**: [linkedin.com/in/gaurav-b-r/](https://www.linkedin.com/in/gaurav-b-r/)  
-🎓 **Kaggle**: [kaggle.com/gauravbr](https://www.kaggle.com/gauravbr)  
+🔍 Currently Exploring: Advanced Deep Learning applications and cutting-edge AI solutions in Cloud environments.
 
 ---
 
